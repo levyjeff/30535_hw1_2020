@@ -1,16 +1,17 @@
 # PPHA 30535
-# Spring 2020
+# Summer 2020
 # Homework 1
 
 # YOUR NAME HERE
 
 # Go to the syllabus and read the section on Academic Integrity before doing this assignment.
+
 # Please write your code in the space below each question, and make sure that your code runs.
 # Read the questions carefully and present the results in the format asked (e.g. print statements)
 # If a method is specified, you must use that method to get the result even if you find/know of
 # another way to do it.
 
-# Due date: Sunday, April 19th before midnight. Submissions only accepted on GitHub.
+# Due date: Sunday, July 5th before midnight. Submissions only accepted on GitHub.
 
 #############################################
 
