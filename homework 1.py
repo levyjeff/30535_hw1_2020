@@ -16,15 +16,16 @@
 
 # Question 1: The Pythagorean theorem says that the sides of a right triangle follow the formula:
 # a squared + b squared = c squared
-# where c is the hypotenuse. Write code that takes in the variables a and b, then prints out the
+# where c is the hypotenuse. Write code where you assign the variables a and b, then print out the
 # length of the hyptenuse, the area of the triangle (one half base times height) and the perimeter
-# (the sum of all three sides)
+# (the sum of all three sides).
 
 
 
 # Question 2: For any given rectangle, the area is simply its base times its height, and its perimeter
-# is the sum of all four sides. Create a dictionary where the keys are a, b, area, and permieter. Fill
-# in any values for a and b, and have the dictionary values for area and permiter calculated.
+# is the sum of all four sides. Create a dictionary where the keys are a, b, area, and permieter.
+# Assign values for a and b, and have the dictionary values for area and permiter calculated. Print the
+# final dictionary.
 
 
 
@@ -36,7 +37,7 @@
 
 
 # Question 4: Using a for loop, write code that takes in any list of objects, then prints out:
-# "The value at position __ is __."
+# "The value at position __ is __"
 # for every element in the loop, where the first blank is the index location and the second blank is
 # the object at that index location.
 
